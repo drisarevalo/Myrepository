@@ -13,4 +13,4 @@
 * ⚡ Fun fact: Lobsters have blue blood.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRR1GnZ8TX0-LzHXbn8n4z7iB3hmBdRlz8bQ&s">
-<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRR1GnZ8TX0-LzHXbn8n4z7iB3hmBdRlz8bQ&s">">
+<img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRR1GnZ8TX0-LzHXbn8n4z7iB3hmBdRlz8bQ&s">
