@@ -1,1 +1,12 @@
-# Myrepository
+<h1> Welcome to my profile </h1>
+### Hi there 👋
+* 👂 My name is Audris Arevalo
+* 👩 Pronouns: Girl
+* 🔭 I’m currently working on Github Project
+* 🌱 I’m currently learning Github
+* 🤝 I’m looking to collaborate on Creating
+* 🤔 I’m looking for help with creating websites
+* 💬 Ask me about your mom
+* 📫 How to reach me: In Facebook
+* ❤️ I love Myself
+* ⚡ Fun fact: Lobsters have blue blood.
